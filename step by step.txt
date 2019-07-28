@@ -1,0 +1,15 @@
+conclusion workshop 6 bisa.ai
+1. Buat model
+2. load model
+3. membuat web service
+	3.1 method post
+	3.2 method Get
+4. proses sesuai model deep learning
+5. coba run di url di postman (download terlebih dahulu aplikasi postman) untuk post model
+6. masukan data (sesuai model yang di load)
+7. perhatikan format input(ex:json,text.image)
+8. Body-> pilih content type
+9. run app.py di folder workshop_dashboard 
+
+
+
